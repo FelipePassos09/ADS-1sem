@@ -58,4 +58,10 @@ Temos duas grandes subdivisões entre as linguagens de programação, as INTERPR
 Temos com exemplos de linguagens compiladas: C, C++, C# (ou C++++) e o Java.
 Já para as linguagens interpretadas temos: JavasCript, Python e o PHP.
 
-O fluxo da linguagem C (e da maioria das linguagens interpretadas) segue a premissa de que o mesmo cód. fonte possa ser utilizado para diversos sistemas e daí surge a necessidade do compilador, desse modo podemos converter o mesmo cód para formatos compativeis com qualquer sistema, por exemplo: para wWindows, linux e macOS
+O fluxo da linguagem C (e da maioria das linguagens interpretadas) segue a premissa de que o mesmo cód. fonte possa ser utilizado para diversos sistemas e daí surge a necessidade do compilador, desse modo podemos converter o mesmo cód para formatos compativeis com qualquer sistema, por exemplo: para wWindows, linux e macOS.
+
+Desse modo o fluxo segue três níveis: 
+
+    * Cód. Fonte (sourcecode) - é feito em linguagem de alto-nível, a linguagem utilizando verbos, legivel e compreensível para humanos, antes de ser compilado.
+    * Objeto - é o resultado da compilação do sourcecode, ela, geralmente, é em linguagem de baixo-nível (binário) e é o que será interpretado pelo sistema após a montagem.
+    * Máquina - é o resultado da montagem(assembling) e possivel de ser lido pelo sistema.
