@@ -45,7 +45,7 @@ Como pode ser observado acima, ambas as maneiras apresentam o mesmo cenário e s
 
 As linguagens de computação utilizam esse formato de estrutura por permitir uma padronização nas notações do código e agregar maior produtividade e precisão ao processo.
 
-<h3>Linguagem de Programação</h3>
+<h2>Linguagem de Programação</h2>
 
 Entende-se por linguagem de programação as tecnologias de notação, compilação e semãntica que se destinam à criação de programas. Temos como linguagens o Python, C, C++, C#, Java, JavaScript(JS), Rust, entre muitos outros.
 
