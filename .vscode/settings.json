@@ -1,0 +1,8 @@
+{
+  "C_Cpp.errorSquiggles": "Disabled",
+  "c-cpp-compile-run.c-flags": "",
+  "code-runner.runInTerminal": true,
+  "code-runner.executorMap": {
+    "c": "cd $dir && gcc $fileName -o $fileNameWithoutExt -lm && $dir$fileNameWithoutExt",
+  }
+}
