@@ -1,17 +1,19 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <locale.h>
 
 int main(int argc, char** argv) {
 
+    setlocale(LC_ALL, "Portuguese");
+
     char nome[30];
     char endereco[30];
-    int idade;  
+    int idade;
 
     printf("Informe seu nome: \n");
-    scanf("%s", &nome);
+    gets(nome);
 
     printf("Informe o endereço: \n");
-    scanf("%s", &endereco);
+    gets(endereco);
 
     printf("Informe sua idade: \n");
     scanf("%i",&idade);
