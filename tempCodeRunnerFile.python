@@ -1,0 +1,9 @@
+tot = c = 0
+val = 5
+
+while val<=10240:
+    val *= 2
+    c += 1
+    tot += val
+    
+print(c, tot )

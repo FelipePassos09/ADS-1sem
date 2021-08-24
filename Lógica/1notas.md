@@ -8,3 +8,5 @@ Lógica computacional é a área que rege os princípios de análise, raciocíni
 <h2>Proposições</h2>
 * Denomina-seproposiçãoa toda frase declarativa, expressaem palavras ou símbolos, que exprima um juízo ao qual sepossaatribuir,dentro de certo contexto, somente um de dois valores lógicos possíveis:verdadeiro ou falso.* Proposição:consiste em um enunciado,uma frase declarativa.
 
+<h2>Álgebra dos conjuntos</h2>
+    
