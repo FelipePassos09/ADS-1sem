@@ -1,4 +1,4 @@
-<h1>Lógica Computacional</h1>
+h1>Lógica Computacional</h1>
 <p>
 Prof. Dorival Magro (coordenador do curso)
 <br>
