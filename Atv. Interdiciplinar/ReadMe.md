@@ -87,5 +87,28 @@ Esse banco deve conter dados importantes como:
 <li><a>Consultas</a>
 <li><a>Enfermeiros(as)</a>
 <li><a>Prescrições</a>
-<li><a>Prescrições</a>
+<li><a>Demais campos considerados pertinentes</a>
 </li>
+<br/>
+O banco de dados deve possuir, ao menos, 3 entidades e seus relacionamentos e cardinalidades deverão ser definidos pela equipe.</p>
+
+
+<h2>Atividade Geradora de Aprendizado 3</h2>
+
+<p>Desenvolver uma apliacção em C nas seguintes especificações:</p>
+<li><a>Deverá ser em forma de VETOR.</a>
+<li><a>O vetor deverá ter tamanho 3.</a>
+<li><a>Os valores deverão ser inseridos pelo usuário.</a>
+<li><a>Deverá imprimir os valores inseridos pelo usuário.</a>
+</li>
+<br>
+
+<h2>Atividade Geradora de Aprendizado 4</h2>
+
+<p>Desenvolver um modelo de caso de uso para o cenário abaixo:</p><br>
+
+<li><a>Registrar informações a respeito de cada sala.</a>
+<li><a>Registrar as informações sobre os filmes.</a>
+<li><a>Registrar as sessões dos filmes.</a>
+<li><a>Registrar as transações de compra de ingressos.</a>
+
