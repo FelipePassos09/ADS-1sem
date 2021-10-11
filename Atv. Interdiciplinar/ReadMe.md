@@ -1,4 +1,5 @@
 <h1>Escopo da Atividade</h1>
+<h2>Entrega até 30/10</h2>
 
 <p>A atividade visa produzir textos e resoluçõ dos exercícios pertinentes às diversas áreas de estudo do módulo corrente<br>
 Esses exercícios tem como premissa a criação de passos e procedimetos relacionados ao desenvolvimento de software e soluções para uma multinacional na condição de atuação em uma oportunidade de estágio na empresa citada.</p>

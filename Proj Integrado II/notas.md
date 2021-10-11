@@ -1,4 +1,5 @@
 <h1>Projeto Integrado II</h1>
+<h2>Entrega até 06/11</h2>
 
 <p>Produção textual voltada à criar e consolidar os conteúdos abordados em aula das disciplinas competentes.<br />
 Tal projeto terá como premissa básica a entrega, na forma de produção textual, de atividades e analises baseadas nos conteúdos já abordados.</p>

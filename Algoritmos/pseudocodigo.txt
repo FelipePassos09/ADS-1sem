@@ -1,0 +1,28 @@
+imprime('--- Pseudocodigo ---')
+imprime('--- Cálcudo da Média ---')
+
+
+"""doc:
+"!=" -> representa 'diferente de:'
+"soma" -> representa uma função que soma todos os itens contidos em uma lista.
+"adiciona" -> representa uma função que insere o valor na ultima posição da lista."""
+
+var_notas = lista[]
+var_média = float()
+var_entradas = int()
+
+loop enquanto(parar != 'SIM'){
+    imprime("Informe um valor:")
+    lê_a_entrada(adiciona.var_notas[])
+    var_entradas = var_entradas + 1
+
+    imprime("Quer finalizar?")
+    lê_a_entrada(parar())
+}
+
+imprime('--- Resultado da média ---')
+var_média = soma(var_notas)/var_entradas
+
+imprime('--- ', var_média, ' ---')
+
+
