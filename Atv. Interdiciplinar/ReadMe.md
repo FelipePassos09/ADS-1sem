@@ -23,33 +23,34 @@ Responder às tabelas verdade apresentadas com as informações solicitadas na a
 <tr>
     <td>V</td>
     <td>V</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
+    <td>F</td>
+    <td>F</td>
+    <td>V</td>
+    <td>F</td>
 </tr>
 <tr>
     <td>V</td>
     <td>F</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-<tr><tr>
+    <td>V</td>
     <td>F</td>
     <td>V</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-<tr><tr>
     <td>F</td>
-    <td>F</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
-    <td>?</td>
 <tr>
+    <td>F</td>
+    <td>V</td>
+    <td>V</td>
+    <td>V</td>
+    <td>F</td>
+    <td>V</td>
+</tr>
+<tr>
+    <td>F</td>
+    <td>F</td>
+    <td>V</td>
+    <td>F</td>
+    <td>V</td>
+    <td>F</td>
+</tr>
 </table>
 
 <h3>Tabela 2</h3>
@@ -62,22 +63,22 @@ Responder às tabelas verdade apresentadas com as informações solicitadas na a
     <tr>
         <td>V</td>
         <td>V</td>
-        <td>?</td>
+        <td>V</td>
     </tr>
     <tr>
         <td>V</td>
         <td>F</td>
-        <td>?</td>
+        <td>F</td>
     </tr>
     <tr>
         <td>F</td>
         <td>V</td>
-        <td >?</td>
+        <td>F</td>
     </tr>
     <tr>
         <td>F</td>
         <td>F</td>
-        <td>?</td>
+        <td>F</td>
     </tr>
 </table>
 <h2>Situação Geradora de Aprendizado 2</h2>

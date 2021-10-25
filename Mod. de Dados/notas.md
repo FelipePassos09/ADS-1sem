@@ -171,10 +171,12 @@ Além disso deve permitir o controle de permissionamento de usuários para assim
 <h3>OLTP vs OLAP</h3>
 
 <h4>OLTP</h4>
-<p></p>
+<p>OLTP significa Online Transaction Processing e seu objetivo principal é o processamento de dados. Um sistema OLTP administra as transações diárias de dados em uma arquitetura de 3 camadas (geralmente 3NF ). Cada uma dessas transações envolve registros individuais compostos de vários campos. A ênfase principal do OLTP é o processamento rápido de consultas e integridade de dados em ambientes de multi-acesso.</p>
 
 <h4>OLAP</h4>
-<p></p>
+<p>OLAP significa Online Analytical Processing e seu objetivo principal é a análise de dados. Geralmente é descrito como uma categoria de ferramentas de software usadas para fornecer análise de dados para decisões de negócios. Com a ajuda do OLAP, analistas de dados pode obter uma visão geral das informações em vários bancos de dados e analisá-los de uma vez. A ênfase principal do OLAP é o tempo de resposta a consultas complexas.
+
+</p>
 
 <table>
 <tr>
@@ -211,3 +213,14 @@ O backup deve possuir um plano e projeto contendo seus detalhes, políticas, pla
 
 <h3>Proteção do Banco</h3>
 <p>O banco deve possuir políticas de acesso bem definidas visando assegurar o acesso e consistência dos dados. Desse <br>
+<h2>Aula 2 - Definindo a modelagem dos dados</h2>
+
+<ul>
+    <li>MER - Modelo Entidade Relacionamento</li>
+    <li>DER - Diagrama Entidade Relacionamento</li>
+    <li>Vantagens e Desvantagens de cada metodologia</li>
+    <li>Aplicações</li>
+</ul>
+
+<h2>Como Modelar</h2>
+<p>Inicialmente podemos conceituar nosso projeto com linguagem textual para, posteriormente, rtaduzi-la em um grafo ou diagrama</p>
