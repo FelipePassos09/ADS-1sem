@@ -223,4 +223,19 @@ O backup deve possuir um plano e projeto contendo seus detalhes, políticas, pla
 </ul>
 
 <h2>Como Modelar</h2>
-<p>Inicialmente podemos conceituar nosso projeto com linguagem textual para, posteriormente, rtaduzi-la em um grafo ou diagrama</p>
+<p>Inicialmente podemos conceituar nosso projeto com linguagem textual para, posteriormente, rtaduzi-la em um grafo ou diagrama. Para isso utilizamos ferramentas CASE, dedicadas a essa finalidade para que possamos </p>
+
+<h2>Cardinalidade</h2>
+<p></p>
+
+
+
+<h1>Aula 3</h1>
+<p>O ciclo de vida de um banco de dados delimita onde começa, como é desenvolvido e como será tratado após sua implementação.<br />Pelo ciclo de vida detalhamos cada passo do banco, desde o estudo inicial até a operação e manutenção.<br />
+    
+ <h2>Desenvolvimento em Equipe</h2>
+ <p>Deve, sempre, ser padronizado para que haja solidez e coerência nos dados e em como serão estruturados. Podemos definir um dicionário de dados para descrever o banco em cada um de seus detalhes, essa documentação é de grande ajuda para os desenvolvimentos voltados ao banco, nele há os tipos de dados, tamanhos, relacionamentos, permissionamentos. O dicionário não possui um layout ou metodologia padronizada porém, geralmente, é composto de tabelas contendo os dados e suas características. Um dicionário pode tanto servir apenas como documentação descritiva como também para a elaboração das lógica por trás do banco, nesse caso ele é o mais indicado pois deterá todo o detalhamento do banco e de seus dados relacionados. <br/> Podemos também usar o dicionário como uma base para o modelo lógico textual, otimizando assim os fluxos de implementação e desenvolvimento com uma referência única para todos os envolvidos.</p>
+ 
+ <li>Instalar e estudar o SQL workbench (estudar SQL)</li>
+ 
+ <p>Podemos fazer uso de chaves de relacionamento para definir os relacionamentos entre as tabelas, neste caso cada relacionamento herdará as cardinalidades de cada </p>
