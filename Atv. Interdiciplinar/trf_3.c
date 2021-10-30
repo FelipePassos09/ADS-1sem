@@ -1,19 +1,40 @@
 #include <stdio.h>
-#include <math.h>
+#include <stdlib.h>
 
-int main()
+
+int main(void)
 {
-    int value_1[3], value_2[3], sum[4];
+    int list[3]={21, 36, 19};
+    int total = 0;
+    int value;
+
+    while (total < 3)
+    {
+        printf("\nInsira um valor: ");
+        scanf("%d", &list[total]);
+
+        ///ist[total] = value;//
+        
+        printf("\nO valor inserido foi: %i", list[total]);
+
+        total++;
+
+    };
+
+    printf("\n\n\nOs valores inseridos foram: ");
+    for (int i = 0; i < 3; i++){
+ 
     
-    printf("\nInforme o primeiro número a ser calculado:");
-    scanf("%i", &value_1);
+        if(i<2) {
+        printf("%i, ", list[i]);
+        } else {
+            printf("e %i.", list[i]);
+        };
 
-    printf("\nInforme o segundo número a ser calculado:");
-    scanf("%i", &value_2);
+    };
 
-    sum = (value_1 + value_2);    
-
-    printf("O total da soma é: %i", sum);
-
+    printf("\n\nTenha um bom dia!");
+    
     return 0;
 }
+
