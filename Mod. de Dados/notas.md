@@ -223,7 +223,7 @@ O backup deve possuir um plano e projeto contendo seus detalhes, políticas, pla
 </ul>
 
 <h2>Como Modelar</h2>
-<p>Inicialmente podemos conceituar nosso projeto com linguagem textual para, posteriormente, rtaduzi-la em um grafo ou diagrama. Para isso utilizamos ferramentas CASE, dedicadas a essa finalidade para que possamos </p>
+<p>Inicialmente podemos conceituar nosso projeto com linguagem textual para, posteriormente, traaduzi-la em um grafo ou diagrama. Para isso utilizamos ferramentas CASE, dedicadas a essa finalidade para que possamos </p>
 
 <h2>Cardinalidade</h2>
 <p></p>

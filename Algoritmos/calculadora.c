@@ -39,7 +39,7 @@ int main (){
         };
         if(menu == 3){
             printf("\nInforme o dividendo: ");
-            scanf("%f", &num1);
+            scanf("%f", &num1
             printf("\nInforme o divisor: ");
             scanf("%f", &num2);
 
