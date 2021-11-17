@@ -256,4 +256,15 @@ No Scrum é muito utilizado uma estrutura de Kanban ou quadro com os requisitos 
 </p>
 
 <h1>Aula 2</h1>
-<h2>Teste GitLens</h2>
+<h2>Modelos de Processos</h2>
+<h3>Processos de Negócios</h3>
+<p>Através do conhecimentos dos processos de negócios podemos entregar soluções mais adequadas às necessidades do software desenvolvido. Além disso, todas as empresas possuem processos diversos em suas rotinas e precisamos levar em consideração todos eles para que tenhamos uma maior efetividade tanto nas nossas atividades quanto nas atividades de nossos clientes.</p>
+<p>Mapear e estudar cada um desses processos é essencial para que possamos ter efetividade e qualidade em nossas atividades.</p>
+<h3>O que são Processos?</h3>
+<p>Processos são o conjunto de atividades ligadas a execução de uma tarefa, seja ela simples ou complexa. em um processo podemos ter outros desdobramentos, que podem ser, também outros processos, e nesse caso temos a seguinte organização:
+    <ul>
+        <li>Macro Processos - São os processos genéricos ou amplos, onde dentro deles há outras atividades menores incluídas, que precisam ser atendidas para que o processo seja cumprido.</li>
+        <li>Processos Principais - São as atividades a seerm executadas onde, por sua especificidade, são bem delimitadas e podem estar ou não contidas em um macro-processo.</li>
+        <li>Sub-Processo - São partes menores de um processo principal, geralmente desdobramentos de uma de suas etapas e, por sua complexidade e carecterística, não pode existir de forma independente, ou seja, deve estar atribuída ao processo principal.</li>
+    </ul>
+</p>
